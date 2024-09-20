@@ -11,6 +11,11 @@ Full terminal Settings:
 115200 baud, 8 data bits, 1 stop bit, No Parity, No Flow Control
 ```
 
+```
+$ sudo chmod 666 /dev/ttyUSB*
+$ sudo putty -serial -sercfg 115200,8,n,1,N -fn "client:Ubuntu Mono 16"  /dev/ttyUSB1 &
+```
+
 ---
 ### SSH/SFTP/SCP
 
