@@ -22,3 +22,8 @@ $(CONFPRO_HOME)/guibin/Confpro-SX-GuiRun.sh
 ## Configure HAPS HW – Clock
 
 ![image](https://github.com/user-attachments/assets/7c494f37-f126-448b-8711-6fe225760586)
+
+---
+## Configure HAPS HW – Power
+
+![image](https://github.com/user-attachments/assets/6a4ec21b-3cae-4f02-b200-c765bc65d15b)
